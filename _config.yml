@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kittyfan.github.io
+title: Kitty Fan
+email: ladeja@a54pd15op.com
+author: kittyfan
+description: My awesome new site
+paginate: 3
+google_analytics: 
